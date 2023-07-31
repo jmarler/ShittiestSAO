@@ -7,17 +7,17 @@ Collect all of the parts in the kit, or create your own kit:
 ![Parts Kit](partskit.jpeg)
 * 1x Blinking LED
 * 1x 2x3 pin 2.54mm headers (You can also use 2x 1x3 headers)
-  - The middle pin must be removed
+  * The middle pin must be removed
 * 1x SAO printed part
 * Non-conductive epoxy
- - Tested using Plastibond from JB Weld
- - JB Weld is conductive and will not work for this project
+  * Tested using Plastibond from JB Weld
+  * JB Weld is conductive and will not work for this project
 * Soldering iron with a fine tip & leaded solder
 * Needle nose pliers
 * Something to mount the SAO on during assembly
- - A working badge with an SAO header
- - A male SAO header on a breadboard
- - A SAO testing device
+  * A working badge with an SAO header
+  * A male SAO header on a breadboard
+  * A SAO testing device
 * A multi-meter to test and troubleshoot
 
 ## Assemble the SAO
