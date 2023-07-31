@@ -9,6 +9,8 @@ Collect all of the parts in the kit, or create your own kit:
 * 1x 2x3 pin 2.54mm headers (You can also use 2x 1x3 headers)
   * The middle pin must be removed
 * 1x SAO printed part
+* 1x Sticker for the front
+  * Create your own sticker, or if you got a kit, use the sticker in the kit
 * Non-conductive epoxy
   * Tested using Plastic Bonder 50139 from JB Weld
   * JB Weld is conductive and will not work for this project
