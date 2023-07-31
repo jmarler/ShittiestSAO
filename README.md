@@ -128,3 +128,5 @@ To create the sticker, use a round sticker that is 40mm in diameter. I used Appl
 To create your own stickers open the template in Apple Pages. Edit each one of the circles and change the fill to an "Image Fill" and select your sticker image. Or add in some text. Or do whatever you want. It's your SAO now. 
 
 The template file is setup to print on a standard FedEx/UPS shipping label that you can get for free. You could also fill the page with stickers, or have the stickers professionally printed and cut. I cut mine out with a pair of scissors, scored the paper with a very sharp hobby knife, peeled off the paper, and stuck the sticker on the front of the SAO.
+
+Don't forget to use a standard hole punch to put a hole in the sticker for the LED to fit through. I put the stickers on after the soldering, but if you have the skills to stick the sticker on half way  or something and poke the LED through the paper, go for it. 
