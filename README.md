@@ -4,6 +4,7 @@ A 3-D printable SAO that has a single blinking light and uses no PCB.
 Collect all of the parts in the kit, or create your own kit:
 
 ## Parts
+![Parts Kit](partskit.jpg)
 * 1x Blinking LED
 * 1x 2x3 pin 2.54mm headers (You can also use 2x 1x3 headers)
   - The middle pin must be removed
@@ -25,61 +26,84 @@ Collect all of the parts in the kit, or create your own kit:
 
 Insert the LED into the front of the SAO with the anode (long leg) on the left. The polarity is very important here. If you get this step wrong, the SAO will not work. 
 
+![Step 1](step1a.jpg)
+![Step 1](step1b.jpg)
+
 ### Step 2
 
 Bend the legs of the LED over. The shorter leg should fold all the way down.
 
+![Step 2](step2.jpg)
+
 ### Step 3
 
-Trim the longer leg so that it protrudes into the open box space by about 2mm. See picture. Leave it longer and trim it back until you are comfortable with the length. This will be more clear in step X
+Trim the longer leg so that it protrudes into the open box space by about 2mm. See picture. Leave it longer and trim it back until you are comfortable with the length. This will be more clear in step 6 when you solder the pins.
+
+![Step 3](step3.jpg)
 
 ### Step 4
 
 Use the pliers to put a slight bend in the end of the shorter leg. See picture. 
 
+![Step 4](step4.jpg)
+
 ### Step 5
 
 Insert the headers into the badge until only the short end of the pins is visible.
 
-### Step 5
+![Step 5](step5.jpg)
+
+### Step 6
 
 Mount the SAO onto the pin headers. The tolerances are very tight, so you will need to press hard. When the pins are flush with the front of the face of the SAO, they are inserted correctly.
 
 Note: Soldering will be easier if what is now the shortest pin sits to the left of the top left pin of the headers, and the now longer pin sits to the right. See picture.
 
-### Step 6
-
-Solder each pin of the LED to the closest of the left side pins of the headers. See picture. This connects 3v to the LED directly based on the SAO 1.69bis standard. 
+![Step 6a](step6a.jpg)
+![Step 6b](step6b.jpg)
 
 ### Step 7
 
+Solder each pin of the LED to the closest of the left side pins of the headers. See picture. This connects 3v to the LED directly based on the SAO 1.69bis standard. 
+
+Note: If the bent leg of the LED doesn't quite touch the pin, use a small piece of resistor leg to hold the leg closer to the pin. Remove it afterwards. 
+
+![Step 7a](step7a.jpg)
+![Step 7b](step7b.jpg)
+
+### Step 8
+
 Using your multi-meter, test to ensure that you have not shorted any of the pins. 
 
-### Step 8 
+### Step 9 
 
 Turn on the badge to confirm that the light blinks. If the light is not blinking, verify that 3v is present on the two pins. The top left pin should be positive and the bottom left pin should be negative. See diagram. If you didn’t test your LED before you started, use an alternative power source and test it now. Did you get the polarity correct? 
 
-### Step 9
+### Step 10
 
 Mix the epoxy using the manufacturers directions. 
 
-### Step 10
+### Step 11
 
 Once the epoxy is ready, fill the empty space where the header pins are connected to the pins of the LED with epoxy. Try to fill it flush with the face of the SAO. 
 
-### Step 11
-
-Let the epoxy set enough that you can continue working. For plastibond, this is about 15 minutes.
+![Step 11](step11.jpg)
 
 ### Step 12
 
+Let the epoxy set enough that you can continue working. For plastibond, this is about 15 minutes.
+
+### Step 13
+
 Peel the backing off the sticker and mount it to the face of the SAO.
 
-### Step 13 
+![Step 13](step13.jpg)
+
+### Step 14 
 
 Assembly is complete! Leave the SAO alone to allow the epoxy to fully set, according to the manufacturers directions. Once the epoxy is fully set, you are good to go!
 
-Notes:
+### Notes:
 * Do not use cyanoacrylate glue. This glue is far too runny, and will pour out the bottom of the SAO and cover whatever it is plugged into.
 * Use an epoxy that is thick and non-conductive. If the epoxy is thick, it will be less likely to run out of the bottom and ruin whatever you are assembling the SAO on.
 * Cheap bags of LEDs often contain LEDs that don’t work. I suggest testing your LED before you get started to avoid having to take it all apart.
