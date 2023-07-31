@@ -119,7 +119,7 @@ You forgot that the con is next week, and you promised everyone you would make a
 
 ## Sticker
 
-To create the sticker, create a round sticker that is 40mm in diameter. I used Apple Pages to create a set of stickers for the Ham Radio Village. I've included an Apple Pages template file that prints onto a standard Fedex/UPS shipping label.
+To create the sticker, use a round sticker that is 40mm in diameter. I used Apple Pages to create a set of stickers for the Ham Radio Village. I've included an Apple Pages template file that prints onto a standard Fedex/UPS shipping label. I've removed the Ham Radio Village logo. Use your own. 
 
 ### Apple Pages Template File
 
