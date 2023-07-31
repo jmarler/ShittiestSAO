@@ -10,7 +10,7 @@ Collect all of the parts in the kit, or create your own kit:
   * The middle pin must be removed
 * 1x SAO printed part
 * Non-conductive epoxy
-  * Tested using Plastibond from JB Weld
+  * Tested using Plastic Bonder 50139 from JB Weld
   * JB Weld is conductive and will not work for this project
 * Soldering iron with a fine tip & leaded solder
 * Needle nose pliers
