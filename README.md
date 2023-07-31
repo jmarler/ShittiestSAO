@@ -117,3 +117,12 @@ Assembly is complete! Leave the SAO alone to allow the epoxy to fully set, accor
 
 You forgot that the con is next week, and you promised everyone you would make an SAO. You googled and found this SAO that you can print at home and assemble with random parts you have, or can get in a day from Amazon. You're welcome!
 
+## Sticker
+
+To create the sticker, create a round sticker that is 40mm in diameter. I used Apple Pages to create a set of stickers for the Ham Radio Village. I've included an Apple Pages template file that prints onto a standard Fedex/UPS shipping label.
+
+### Apple Pages Template File
+
+To create your own stickers open the template in Apple Pages. Edit each one of the circles and change the fill to an "Image Fill" and select your sticker image. Or add in some text. Or do whatever you want. It's your SAO now. 
+
+The template file is setup to print on a standard FedEx/UPS shipping label that you can get for free. You could also fill the page with stickers, or have the stickers professionally printed and cut. I cut mine out with a pair of scissors, scored the paper with a very sharp hobby knife, peeled off the paper, and stuck the sticker on the front of the SAO.
