@@ -79,6 +79,8 @@ Using your multi-meter, test to ensure that you have not shorted any of the pins
 
 Turn on the badge to confirm that the light blinks. If the light is not blinking, verify that 3v is present on the two pins. The top left pin should be positive and the bottom left pin should be negative. See diagram. If you didn’t test your LED before you started, use an alternative power source and test it now. Did you get the polarity correct? 
 
+![SAO Pinout Diagram stolen from hackaday.com](saopinout.png)
+
 ### Step 10
 
 Mix the epoxy using the manufacturers directions. 
