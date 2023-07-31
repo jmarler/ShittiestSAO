@@ -111,3 +111,9 @@ Assembly is complete! Leave the SAO alone to allow the epoxy to fully set, accor
 * Cheap bags of LEDs often contain LEDs that don’t work. I suggest testing your LED before you get started to avoid having to take it all apart.
 * You don’t need a resistor. It’s a shitty add-on … the LED may eventually die … it’s shitty …
 * This is simple, but requires precision soldering. If you have a large soldering iron with a large tip, you are going to have a bad time.
+* The 3-D printed part can be printed face down with no supports. Tested on a Prusa Mini and Prusa MK4 using Overture PLA.
+
+### Intended Use
+
+You forgot that the con is next week, and you promised everyone you would make an SAO. You googled and found this SAO that you can print at home and assemble with random parts you have, or can get in a day from Amazon. You're welcome!
+
