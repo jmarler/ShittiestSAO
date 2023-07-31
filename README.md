@@ -39,7 +39,7 @@ Bend the legs of the LED over. The shorter leg should fold all the way down.
 
 Trim the longer leg so that it protrudes into the open box space by about 2mm. See picture. Leave it longer and trim it back until you are comfortable with the length. This will be more clear in step 6 when you solder the pins.
 
-![Step 3](step3.jpg)
+![Step 3](step3.jpeg)
 
 ### Step 4
 
