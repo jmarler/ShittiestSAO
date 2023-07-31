@@ -4,7 +4,7 @@ A 3-D printable SAO that has a single blinking light and uses no PCB.
 Collect all of the parts in the kit, or create your own kit:
 
 ## Parts
-![Parts Kit](partskit.jpg)
+![Parts Kit](partskit.jpeg)
 * 1x Blinking LED
 * 1x 2x3 pin 2.54mm headers (You can also use 2x 1x3 headers)
   - The middle pin must be removed
@@ -26,32 +26,32 @@ Collect all of the parts in the kit, or create your own kit:
 
 Insert the LED into the front of the SAO with the anode (long leg) on the left. The polarity is very important here. If you get this step wrong, the SAO will not work. 
 
-![Step 1](step1a.jpg)
-![Step 1](step1b.jpg)
+![Step 1](step1a.jpeg)
+![Step 1](step1b.jpeg)
 
 ### Step 2
 
 Bend the legs of the LED over. The shorter leg should fold all the way down.
 
-![Step 2](step2.jpg)
+![Step 2](step2.jpeg)
 
 ### Step 3
 
 Trim the longer leg so that it protrudes into the open box space by about 2mm. See picture. Leave it longer and trim it back until you are comfortable with the length. This will be more clear in step 6 when you solder the pins.
 
-![Step 3](step3.jpg)
+![Step 3](step3.jpeg)
 
 ### Step 4
 
 Use the pliers to put a slight bend in the end of the shorter leg. See picture. 
 
-![Step 4](step4.jpg)
+![Step 4](step4.jpeg)
 
 ### Step 5
 
 Insert the headers into the badge until only the short end of the pins is visible.
 
-![Step 5](step5.jpg)
+![Step 5](step5.jpeg)
 
 ### Step 6
 
@@ -59,8 +59,8 @@ Mount the SAO onto the pin headers. The tolerances are very tight, so you will n
 
 Note: Soldering will be easier if what is now the shortest pin sits to the left of the top left pin of the headers, and the now longer pin sits to the right. See picture.
 
-![Step 6a](step6a.jpg)
-![Step 6b](step6b.jpg)
+![Step 6a](step6a.jpeg)
+![Step 6b](step6b.jpeg)
 
 ### Step 7
 
@@ -68,8 +68,8 @@ Solder each pin of the LED to the closest of the left side pins of the headers. 
 
 Note: If the bent leg of the LED doesn't quite touch the pin, use a small piece of resistor leg to hold the leg closer to the pin. Remove it afterwards. 
 
-![Step 7a](step7a.jpg)
-![Step 7b](step7b.jpg)
+![Step 7a](step7a.jpeg)
+![Step 7b](step7b.jpeg)
 
 ### Step 8
 
@@ -87,7 +87,7 @@ Mix the epoxy using the manufacturers directions.
 
 Once the epoxy is ready, fill the empty space where the header pins are connected to the pins of the LED with epoxy. Try to fill it flush with the face of the SAO. 
 
-![Step 11](step11.jpg)
+![Step 11](step11.jpeg)
 
 ### Step 12
 
@@ -97,7 +97,7 @@ Let the epoxy set enough that you can continue working. For plastibond, this is 
 
 Peel the backing off the sticker and mount it to the face of the SAO.
 
-![Step 13](step13.jpg)
+![Step 13](step13.jpeg)
 
 ### Step 14 
 
