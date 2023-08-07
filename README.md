@@ -114,6 +114,15 @@ Assembly is complete! Leave the SAO alone to allow the epoxy to fully set, accor
 * You don’t need a resistor. It’s a shitty add-on … the LED may eventually die … it’s shitty …
 * This is simple, but requires precision soldering. If you have a large soldering iron with a large tip, you are going to have a bad time.
 * The 3-D printed part can be printed face down with no supports. Tested on a Prusa Mini and Prusa MK4 using Overture PLA.
+* If you are having trouble removing the backing of the sticker, try this:
+  * Place the sticker face down on the table/workbench
+  * Get a piece of clear tape
+  * Place the tape on the edge of the backing and the table/workbench
+  * Rub your finger over the tape and try to get it stuck to the table and sticker as much as possible
+  * Pull the tape off and hold the end of the tape as close to the sticker as possible
+  * As you pull away from the table and reach the sticker, the backing should peel away
+  * If the backing tears, use a new piece of tape, and try a different spot
+  * I used this method to quickly remove the backing from about 50 stickers
 
 ### Intended Use
 
